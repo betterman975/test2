@@ -25,7 +25,7 @@ The functions of **mutable dict** are as follows：
 
   We get the position of the known number in the hash map by integer remainder method.
 
-  ![get_value](./pics/mutable/get value.png)
+  ![get_value](https://github.com/betterman975/test2/blob/main/pics/mutable/get%20value.png)
 
 + add
 
